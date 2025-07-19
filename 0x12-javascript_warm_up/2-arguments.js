@@ -7,4 +7,7 @@ if (args === 0) {
 } else {
   console.log('Arguments found');
 }
+node 0x12-javascript_warm_up/2-arguments.js
+node 0x12-javascript_warm_up/2-arguments.js Hello
+node 0x12-javascript_warm_up/2-arguments.js Hello World
 
